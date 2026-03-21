@@ -62,5 +62,3 @@ void foo(Base b){
 foo(c); // функция foo, если нет &
 ```
 
-
-
